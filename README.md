@@ -60,8 +60,6 @@ Tests 2, 5, and 10 returned no products. Further investigation is needed to dete
 
 Screenshots are stored in `screenshots/` and named with the related bug IDs. `DF-BUG-10to12.png` is shared by the email, full-name, and city reports.
 
-The exact failing filter combination should be checked against its evidence: DF-BUG-04 and its screenshot show Intel / Good / Good / 8GB, while pairwise test 9 records Intel / Better / Better / 8GB. These may be separate reproductions, but the distinction has not been confirmed.
-
 The attached negative-quantity screenshots show the cart and checkout states. They do not show the final order confirmation. Final order creation is reported in the bug workbook, but that outcome is not independently demonstrated by the attached screenshots.
 
 No formal product requirements were available for hardware performance levels or compatible product types in comparison. Related expectations may require clarification.
